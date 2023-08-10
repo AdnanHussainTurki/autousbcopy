@@ -14,7 +14,7 @@ AutoUSBCopy aims to solve the age old problem of automatic dumping the SD-card t
 
 We can setup the AutoUSBCopy to be run automatically on system startup as following:
 
-- First and formost, don't forget to star this repo, it is useful to you 😅
+- First and formost, don't forget to star this repo, if it is useful to you 😅
 
 - Clone/download this repo to your local system.
 
